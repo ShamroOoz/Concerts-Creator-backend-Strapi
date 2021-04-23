@@ -1,0 +1,40 @@
+{
+  "name": "concerts-creator-backend",
+  "private": true,
+  "version": "0.1.0",
+  "description": "A Strapi application",
+  "scripts": {
+    "develop": "strapi develop",
+    "start": "strapi start",
+    "build": "strapi build",
+    "strapi": "strapi"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "knex": "0.21.18",
+    "slugify": "^1.5.0",
+    "sqlite3": "5.0.0",
+    "strapi": "3.6.0-beta.5",
+    "strapi-admin": "3.6.0-beta.5",
+    "strapi-connector-bookshelf": "3.6.0-beta.5",
+    "strapi-plugin-content-manager": "3.6.0-beta.5",
+    "strapi-plugin-content-type-builder": "3.6.0-beta.5",
+    "strapi-plugin-email": "3.6.0-beta.5",
+    "strapi-plugin-i18n": "3.6.0-beta.5",
+    "strapi-plugin-upload": "3.6.0-beta.5",
+    "strapi-plugin-users-permissions": "3.6.0-beta.5",
+    "strapi-provider-upload-cloudinary": "^3.6.0",
+    "strapi-utils": "^3.6.0-beta.5"
+  },
+  "author": {
+    "name": "A Strapi developer"
+  },
+  "strapi": {
+    "uuid": "840b96a3-ed56-41f7-8645-3888a8ada5a6"
+  },
+  "engines": {
+    "node": ">=10.16.0 <=14.x.x",
+    "npm": "^6.0.0"
+  },
+  "license": "MIT"
+}
