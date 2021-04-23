@@ -2,9 +2,8 @@
 
 ## Backend is in Strapi
 
-Runing at ---
-Server on Heroku....(https://concert-creator-backend.herokuapp.com/)
+Deploy on Heroku....(https://concert-creator-backend.herokuapp.com/)
 
 ## Fortend Deployment
 
-Server on Vercel (https://concerts-creator-frontend-nextjs.vercel.app/) er.
+Deploy on Vercel (https://concerts-creator-frontend-nextjs.vercel.app/)
